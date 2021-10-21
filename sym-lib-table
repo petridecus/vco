@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name 74HC14D-Q100_118)(type Legacy)(uri /home/andreas/Downloads/74HC14D-Q100_118.lib)(options "")(descr ""))
+  (lib (name 3314J-1-104E)(type Legacy)(uri /home/andreas/Downloads/3314J-1-104E/3314J-1-104E.lib)(options "")(descr ""))
+)

@@ -49,13 +49,13 @@ Connection ~ 3350 1350
 Wire Wire Line
 	3350 2050 3350 2200
 $Comp
-L Transistor_BJT:BC548 Q2
+L Transistor_BJT:BC848 Q2
 U 1 1 61611DC1
 P 2700 1800
 AR Path="/614BBE24/61611DC1" Ref="Q2"  Part="1" 
 AR Path="/61767C98/61611DC1" Ref="Q?"  Part="1" 
 F 0 "Q2" H 2891 1846 50  0000 L CNN
-F 1 "BC548" H 2891 1755 50  0000 L CNN
+F 1 "BC848" H 2891 1755 50  0000 L CNN
 F 2 "Package_TO_SOT_SMD:SOT-23_Handsoldering" H 2900 1725 50  0001 L CIN
 F 3 "https://www.onsemi.com/pub/Collateral/BC550-D.pdf" H 2700 1800 50  0001 L CNN
 	1    2700 1800
@@ -85,13 +85,13 @@ Wire Wire Line
 Wire Wire Line
 	2200 1800 2500 1800
 $Comp
-L Transistor_BJT:BC558 Q1
+L Transistor_BJT:BC858 Q1
 U 1 1 6195351A
 P 2100 1400
 AR Path="/614BBE24/6195351A" Ref="Q1"  Part="1" 
 AR Path="/61767C98/6195351A" Ref="Q?"  Part="1" 
 F 0 "Q1" H 2291 1446 50  0000 L CNN
-F 1 "BC558" H 2291 1355 50  0000 L CNN
+F 1 "BC858" H 2291 1355 50  0000 L CNN
 F 2 "Package_TO_SOT_SMD:SC-59_Handsoldering" H 2300 1325 50  0001 L CIN
 F 3 "https://www.onsemi.com/pub/Collateral/BC556BTA-D.pdf" H 2100 1400 50  0001 L CNN
 	1    2100 1400
@@ -268,13 +268,13 @@ $EndComp
 Wire Wire Line
 	6850 2150 6850 2300
 $Comp
-L Transistor_BJT:BC548 Q4
+L Transistor_BJT:BC848 Q4
 U 1 1 61511B98
 P 6200 1900
 AR Path="/614BBE24/61511B98" Ref="Q4"  Part="1" 
 AR Path="/61767C98/61511B98" Ref="Q?"  Part="1" 
 F 0 "Q4" H 6391 1946 50  0000 L CNN
-F 1 "BC548" H 6391 1855 50  0000 L CNN
+F 1 "BC848" H 6391 1855 50  0000 L CNN
 F 2 "Package_TO_SOT_SMD:SOT-23_Handsoldering" H 6400 1825 50  0001 L CIN
 F 3 "https://www.onsemi.com/pub/Collateral/BC550-D.pdf" H 6200 1900 50  0001 L CNN
 	1    6200 1900
@@ -302,13 +302,13 @@ Wire Wire Line
 Wire Wire Line
 	5700 1900 6000 1900
 $Comp
-L Transistor_BJT:BC558 Q3
+L Transistor_BJT:BC858 Q3
 U 1 1 61511BAF
 P 5600 1500
 AR Path="/614BBE24/61511BAF" Ref="Q3"  Part="1" 
 AR Path="/61767C98/61511BAF" Ref="Q?"  Part="1" 
 F 0 "Q3" H 5791 1546 50  0000 L CNN
-F 1 "BC558" H 5791 1455 50  0000 L CNN
+F 1 "BC858" H 5791 1455 50  0000 L CNN
 F 2 "Package_TO_SOT_SMD:SC-59_Handsoldering" H 5800 1425 50  0001 L CIN
 F 3 "https://www.onsemi.com/pub/Collateral/BC556BTA-D.pdf" H 5600 1500 50  0001 L CNN
 	1    5600 1500
@@ -478,13 +478,13 @@ $EndComp
 Wire Wire Line
 	10550 2350 10550 2500
 $Comp
-L Transistor_BJT:BC548 Q6
+L Transistor_BJT:BC848 Q6
 U 1 1 6153955D
 P 9900 2100
 AR Path="/614BBE24/6153955D" Ref="Q6"  Part="1" 
 AR Path="/61767C98/6153955D" Ref="Q?"  Part="1" 
 F 0 "Q6" H 10091 2146 50  0000 L CNN
-F 1 "BC548" H 10091 2055 50  0000 L CNN
+F 1 "BC848" H 10091 2055 50  0000 L CNN
 F 2 "Package_TO_SOT_SMD:SOT-23_Handsoldering" H 10100 2025 50  0001 L CIN
 F 3 "https://www.onsemi.com/pub/Collateral/BC550-D.pdf" H 9900 2100 50  0001 L CNN
 	1    9900 2100
@@ -512,13 +512,13 @@ Wire Wire Line
 Wire Wire Line
 	9400 2100 9700 2100
 $Comp
-L Transistor_BJT:BC558 Q5
+L Transistor_BJT:BC858 Q5
 U 1 1 61539573
 P 9300 1700
 AR Path="/614BBE24/61539573" Ref="Q5"  Part="1" 
 AR Path="/61767C98/61539573" Ref="Q?"  Part="1" 
 F 0 "Q5" H 9491 1746 50  0000 L CNN
-F 1 "BC558" H 9491 1655 50  0000 L CNN
+F 1 "BC858" H 9491 1655 50  0000 L CNN
 F 2 "Package_TO_SOT_SMD:SC-59_Handsoldering" H 9500 1625 50  0001 L CIN
 F 3 "https://www.onsemi.com/pub/Collateral/BC556BTA-D.pdf" H 9300 1700 50  0001 L CNN
 	1    9300 1700
@@ -753,13 +753,13 @@ $EndComp
 Wire Wire Line
 	3350 5100 3350 5250
 $Comp
-L Transistor_BJT:BC548 Q8
+L Transistor_BJT:BC848 Q8
 U 1 1 6155493B
 P 2700 4850
 AR Path="/614BBE24/6155493B" Ref="Q8"  Part="1" 
 AR Path="/61767C98/6155493B" Ref="Q?"  Part="1" 
 F 0 "Q8" H 2891 4896 50  0000 L CNN
-F 1 "BC548" H 2891 4805 50  0000 L CNN
+F 1 "BC848" H 2891 4805 50  0000 L CNN
 F 2 "Package_TO_SOT_SMD:SOT-23_Handsoldering" H 2900 4775 50  0001 L CIN
 F 3 "https://www.onsemi.com/pub/Collateral/BC550-D.pdf" H 2700 4850 50  0001 L CNN
 	1    2700 4850
@@ -787,13 +787,13 @@ Wire Wire Line
 Wire Wire Line
 	2200 4850 2500 4850
 $Comp
-L Transistor_BJT:BC558 Q7
+L Transistor_BJT:BC858 Q7
 U 1 1 61554952
 P 2100 4450
 AR Path="/614BBE24/61554952" Ref="Q7"  Part="1" 
 AR Path="/61767C98/61554952" Ref="Q?"  Part="1" 
 F 0 "Q7" H 2291 4496 50  0000 L CNN
-F 1 "BC558" H 2291 4405 50  0000 L CNN
+F 1 "BC858" H 2291 4405 50  0000 L CNN
 F 2 "Package_TO_SOT_SMD:SC-59_Handsoldering" H 2300 4375 50  0001 L CIN
 F 3 "https://www.onsemi.com/pub/Collateral/BC556BTA-D.pdf" H 2100 4450 50  0001 L CNN
 	1    2100 4450
@@ -1026,13 +1026,13 @@ $EndComp
 Wire Wire Line
 	6950 5350 6950 5500
 $Comp
-L Transistor_BJT:BC548 Q10
+L Transistor_BJT:BC848 Q10
 U 1 1 61574DE8
 P 6300 5100
 AR Path="/614BBE24/61574DE8" Ref="Q10"  Part="1" 
 AR Path="/61767C98/61574DE8" Ref="Q?"  Part="1" 
 F 0 "Q10" H 6491 5146 50  0000 L CNN
-F 1 "BC548" H 6491 5055 50  0000 L CNN
+F 1 "BC848" H 6491 5055 50  0000 L CNN
 F 2 "Package_TO_SOT_SMD:SOT-23_Handsoldering" H 6500 5025 50  0001 L CIN
 F 3 "https://www.onsemi.com/pub/Collateral/BC550-D.pdf" H 6300 5100 50  0001 L CNN
 	1    6300 5100
@@ -1060,13 +1060,13 @@ Wire Wire Line
 Wire Wire Line
 	5800 5100 6100 5100
 $Comp
-L Transistor_BJT:BC558 Q9
+L Transistor_BJT:BC858 Q9
 U 1 1 61574DFE
 P 5700 4700
 AR Path="/614BBE24/61574DFE" Ref="Q9"  Part="1" 
 AR Path="/61767C98/61574DFE" Ref="Q?"  Part="1" 
 F 0 "Q9" H 5891 4746 50  0000 L CNN
-F 1 "BC558" H 5891 4655 50  0000 L CNN
+F 1 "BC858" H 5891 4655 50  0000 L CNN
 F 2 "Package_TO_SOT_SMD:SC-59_Handsoldering" H 5900 4625 50  0001 L CIN
 F 3 "https://www.onsemi.com/pub/Collateral/BC556BTA-D.pdf" H 5700 4700 50  0001 L CNN
 	1    5700 4700
@@ -1301,13 +1301,13 @@ $EndComp
 Wire Wire Line
 	10300 5350 10300 5500
 $Comp
-L Transistor_BJT:BC548 Q12
+L Transistor_BJT:BC848 Q12
 U 1 1 615A26B6
 P 9650 5100
 AR Path="/614BBE24/615A26B6" Ref="Q12"  Part="1" 
 AR Path="/61767C98/615A26B6" Ref="Q?"  Part="1" 
 F 0 "Q12" H 9841 5146 50  0000 L CNN
-F 1 "BC548" H 9841 5055 50  0000 L CNN
+F 1 "BC848" H 9841 5055 50  0000 L CNN
 F 2 "Package_TO_SOT_SMD:SOT-23_Handsoldering" H 9850 5025 50  0001 L CIN
 F 3 "https://www.onsemi.com/pub/Collateral/BC550-D.pdf" H 9650 5100 50  0001 L CNN
 	1    9650 5100
@@ -1335,13 +1335,13 @@ Wire Wire Line
 Wire Wire Line
 	9150 5100 9450 5100
 $Comp
-L Transistor_BJT:BC558 Q11
+L Transistor_BJT:BC858 Q11
 U 1 1 615A26CC
 P 9050 4700
 AR Path="/614BBE24/615A26CC" Ref="Q11"  Part="1" 
 AR Path="/61767C98/615A26CC" Ref="Q?"  Part="1" 
 F 0 "Q11" H 9241 4746 50  0000 L CNN
-F 1 "BC558" H 9241 4655 50  0000 L CNN
+F 1 "BC858" H 9241 4655 50  0000 L CNN
 F 2 "Package_TO_SOT_SMD:SC-59_Handsoldering" H 9250 4625 50  0001 L CIN
 F 3 "https://www.onsemi.com/pub/Collateral/BC556BTA-D.pdf" H 9050 4700 50  0001 L CNN
 	1    9050 4700
